@@ -1,0 +1,14 @@
+{
+    "squat": {
+        "ideal_knee_angle_min": 80,
+        "ideal_knee_angle_max": 100
+    },
+    "lunge": {
+        "ideal_knee_angle_min": 85,
+        "ideal_knee_angle_max": 105
+    },
+    "pushup": {
+        "ideal_elbow_angle_min": 75,
+        "ideal_elbow_angle_max": 95
+    }
+}
